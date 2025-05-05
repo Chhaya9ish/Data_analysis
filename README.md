@@ -2,7 +2,7 @@
 
 ## 📊 Description
 
-This project presents a comprehensive **Power BI dashboard** visualizing sales and order data from the Vrinda online store.
+This project presents a comprehensive **EXCEL dashboard** visualizing sales and order data from the Vrinda online store.
 The dashboard provides insights into customer demographics, top-performing regions, sales channels, and monthly trends.
 
 - **DASHBOARD.png**  
@@ -34,7 +34,7 @@ The dashboard provides insights into customer demographics, top-performing regio
 
 ## 🛠 Technologies Used
 
-- **Power BI** – for dashboard development and interactive visualizations.
+- **EXCEL** – for dashboard development and interactive visualizations.
 - **Excel/CSV** – for cleaning and handling sales data.
 
 ---
